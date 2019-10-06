@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9c51d196089954a4fafc75b9f0ba0349
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Starcruiser
+  fontNames:
+  - Starcruiser
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 612587e18de7457489ee03c53743e848, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
